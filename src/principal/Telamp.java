@@ -9,7 +9,7 @@ import java.io.File;
 
 public class Telamp extends javax.swing.JInternalFrame {
 
-    File Heart = new File("Heart.wav");
+    
     Sound Batimento = new Sound(1);
     int Sys =0;
     int Dias = 0;
